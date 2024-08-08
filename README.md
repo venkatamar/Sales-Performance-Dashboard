@@ -1,4 +1,6 @@
 # Sales-Performance-Dashboard
+![Sales Performance Dashboard](https://github.com/user-attachments/assets/b1944c53-bbd8-48e8-87f0-c373c06e8d32)
+
 
 
 This project showcases a comprehensive Sales Performance Dashboard built using Microsoft Power BI. The dashboard provides insights into sales data, helping to track performance, identify trends, and make data-driven decisions.
@@ -60,3 +62,8 @@ License:
 
 Contact:
   For any questions or feedback, please contact Gavini Venkat Amar at venkatamar3@gmail.com
+
+
+
+
+
